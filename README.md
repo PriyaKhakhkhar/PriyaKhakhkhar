@@ -1,26 +1,40 @@
-# Hi there 👋 I'm Priya  
+Hi there 👋 I'm Priya
+I'm a Computer Diploma Student at Darshan University (6th Sem).
+Currently exploring JavaScript and COA.
+I enjoy building projects, learning new tech, and solving problems.
 
-I'm a Computer Diploma Student at Darshan University (5th Sem).  
-Currently exploring **ASP.NET, Flutter, Software Engineering, and UI/UX**.  
-I enjoy building projects, learning new tech, and solving problems.  
+🌱 Currently Learning
+JavaScript for dynamic web apps
 
----
+Computer Organization & Architecture (COA)
 
-### 🌱 Currently Learning
-- ASP.NET for web development  
-- Flutter for mobile apps  
-- Software Engineering practices  
-- UI/UX design with Figma  
+✅ Learned
+ASP.NET: WebForms, MVC, Authentication, API integration
 
----
+Flutter: Dart basics, UI widgets, Firebase (Firestore, Auth)
 
-### 🔧 Skills
-- Programming: C, C++, Java, Python  
-- Data Structures & Algorithms  
-- Database: DBMS, MySQL  
-- Web Development: ASP.NET, HTML, CSS  
-- Mobile App Development: Flutter  
-- UI/UX: Figma  
+Software Engineering: SDLC, Agile, UML diagrams, Project documentation
+
+UI/UX: Figma prototyping, Wireframing, User flows
+
+🚀 Projects
+Plant Info App (Flutter + Firebase): Mobile app for plant details, images, and info using Firestore database and authentication
+
+🔧 Skills
+Programming: C, C++, Java, Python, JavaScript
+
+Data Structures & Algorithms
+
+Database: DBMS, MySQL, Firebase
+
+Web Development: ASP.NET, HTML, CSS, JavaScript
+
+Mobile App Development: Flutter
+
+UI/UX: Figma
+
+Other: Computer Organization & Architecture (COA), Software Engineering
+
 
 ---
 
